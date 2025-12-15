@@ -1,0 +1,2 @@
+## Présentation du bloc 1 :
+[Voir la présentation sur Google Slides](https://docs.google.com/presentation/d/1o00XNAmWvmSdrMuSGlkDviWLp3f9vq3J/edit?usp=sharing&ouid=101100764318395664738&rtpof=true&sd=true)
