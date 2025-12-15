@@ -1,8 +1,0 @@
-2025-12-14 17:34:27,706 | INFO | === [ÉTAPE : LOAD BRONZE → MONGODB] ===
-2025-12-14 17:34:27,706 | ERROR | ❌ Fichier .env introuvable.
-2025-12-14 17:45:58,873 | INFO | === [ÉTAPE : LOAD BRONZE → MONGODB] ===
-2025-12-14 17:45:58,873 | ERROR | ❌ Fichier .env introuvable.
-2025-12-14 17:51:40,924 | INFO | === [ÉTAPE : LOAD BRONZE → MONGODB] ===
-2025-12-14 17:51:40,924 | ERROR | ❌ Fichier .env introuvable.
-2025-12-14 20:58:36,723 | INFO | === [ÉTAPE : LOAD] ===
-2025-12-14 20:58:36,724 | ERROR | Fichier .env introuvable.

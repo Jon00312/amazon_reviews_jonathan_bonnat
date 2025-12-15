@@ -1,0 +1,10 @@
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pyarrow
+boto3
+s3fs
+pymongo
+botocore
+pytest

@@ -1,8 +1,0 @@
-table,rows,null_values,duplicates
-buyer,100000,0,0
-subscription,50091,0,0
-product,42858,6,0
-orders,222644,222644,0
-review,111322,48,0
-review_images,119382,0,0
-product_reviews,111322,0,0

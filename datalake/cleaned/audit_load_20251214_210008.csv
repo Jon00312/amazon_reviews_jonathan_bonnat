@@ -1,2 +1,0 @@
-timestamp,rows_loaded,rows_rejected,columns,file_name,file_size_MB,avg_rating,nb_with_images,nb_verified_buyers,s3_uri
-2025-12-14T21:00:10.064600,111036,286,"['review_id', 'buyer_id', 'product_id', 'title', 'review_text', 'rating', 'has_image', 'has_subscription', 'verified_buyer']",reviews_cleaned_20251214_210001.parquet,16.846,3.953672682733528,11154,111036,s3://jonathan-amazon-reviews-datalake/cleaned/reviews_cleaned_20251214_210001.parquet
